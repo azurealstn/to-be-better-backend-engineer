@@ -6,6 +6,10 @@
 
 - [BOOK] [모두의 깃 & 깃허브](/book/git-for-everyone/readme.md)
 
+## Database
+
+- [BOOK] [SQL 첫걸음](/book/sql-first-step/readme.md)
+
 ## Data Structure & Algorithm
 
 자료구조란 데이터 단위와 데이터 자체 사이의 물리적 또는 논리적인 관계를 말한다. 여기서 데이터 단위는 데이터를 구성하는 하나의 덩어리라고 생각하면 된다. 쉽게 말해 자료구조는 자료를 효율적으로 사용할 수 있도록 컴퓨터에 저장하는 방법을 말한다.
