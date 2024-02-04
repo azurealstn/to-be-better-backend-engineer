@@ -34,3 +34,4 @@
 - [트리(Tree)](https://azurealstn.tistory.com/143)
 - [힙(Heap)](https://azurealstn.tistory.com/144)
 - [그래프(Graph)](https://azurealstn.tistory.com/145)
+- [AVL Tree](https://azurealstn.tistory.com/153)
