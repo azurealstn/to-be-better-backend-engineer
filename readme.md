@@ -26,6 +26,8 @@
 
 자료구조는 데이터를 상황에 맞게 저장하기 위한 구조이고, 일고리즘은 자료구조에 있는 데이터를 활용해 어떠한 문제를 해결하기 위한 여러 방법들의 모임이라고 볼 수 있다.
 
+### 자료구조
+
 - [배열(Array)과 리스트(List)](/record/data-structure/array-list.md)
 - [스택(Stack)](https://azurealstn.tistory.com/37)
 - [큐(Queue)](https://azurealstn.tistory.com/38)
@@ -37,3 +39,9 @@
 - [AVL Tree](https://azurealstn.tistory.com/153)
 - [Red-Black Tree](https://azurealstn.tistory.com/154)
 - [B-Tree](https://azurealstn.tistory.com/155)
+
+### 알고리즘
+
+- [선택정렬(Selection Sort)](https://azurealstn.tistory.com/156)
+- [삽입정렬(Insertion Sort)](https://azurealstn.tistory.com/157)
+- [버블정렬(Bubble Sort)](https://azurealstn.tistory.com/29)
