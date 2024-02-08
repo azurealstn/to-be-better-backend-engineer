@@ -45,3 +45,5 @@
 - [선택정렬(Selection Sort)](https://azurealstn.tistory.com/156)
 - [삽입정렬(Insertion Sort)](https://azurealstn.tistory.com/157)
 - [버블정렬(Bubble Sort)](https://azurealstn.tistory.com/29)
+- [퀵정렬(Quick Sort)](https://azurealstn.tistory.com/149)
+- [병합정렬(Merge Sort)](https://azurealstn.tistory.com/34)
