@@ -35,6 +35,7 @@
 - [해시테이블(Hash Table)](https://azurealstn.tistory.com/146)
 - [트리(Tree)](https://azurealstn.tistory.com/143)
 - [힙(Heap)](https://azurealstn.tistory.com/144)
+- [우선순위 큐(Priority Queue)](https://azurealstn.tistory.com/158)
 - [그래프(Graph)](https://azurealstn.tistory.com/145)
 - [AVL Tree](https://azurealstn.tistory.com/153)
 - [Red-Black Tree](https://azurealstn.tistory.com/154)
