@@ -48,3 +48,4 @@
 - [버블정렬(Bubble Sort)](https://azurealstn.tistory.com/29)
 - [퀵정렬(Quick Sort)](https://azurealstn.tistory.com/149)
 - [병합정렬(Merge Sort)](https://azurealstn.tistory.com/34)
+- [이분 탐색(Binary Search)](/record/algorithm/binary-search.md)
