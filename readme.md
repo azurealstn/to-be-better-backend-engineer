@@ -49,3 +49,5 @@
 - [퀵정렬(Quick Sort)](https://azurealstn.tistory.com/149)
 - [병합정렬(Merge Sort)](https://azurealstn.tistory.com/34)
 - [이분 탐색(Binary Search)](/record/algorithm/binary-search.md)
+- [브루트 포스(Brute Force)](/record/algorithm/brute-force.md)
+- [에라토스테네스의 체](/record/algorithm/eratos.md)
