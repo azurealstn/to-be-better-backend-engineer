@@ -87,3 +87,7 @@ public interface Car {
 `InterfaceA`, `InterfaceB`는 둘다 같은 methodCommon() 을 가지고 있다. 그리고 `Child`는 두 인터페이스를 구현했다.
 
 인터페이스 자체에는 구현을 하지 않는다. 대신 위 그림에서 `Child`는 모든 기능을 구현해야 한다. 여기서 `InterfaceA`, `InterfaceB`는 같은 이름의 `methodCommon()`를 제공하지만 `Child` 입장에서는 그냥 `methodCommon()`를 구현하면 된다. 그리고 `InterfaceA`, `InterfaceB` 각각 원하는 기능들인 `methodA()`, `methodB()`를 구현하면 된다.
+
+## Reference
+
+- [김영한의 실전 자바 - 기본편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8#)
