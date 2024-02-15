@@ -6,9 +6,17 @@
 
 - [BOOK] [모두의 깃 & 깃허브](/book/git-for-everyone/readme.md)
 
+<br>
+<br>
+<br>
+
 ## Database
 
 - [BOOK] [SQL 첫걸음](/book/sql-first-step/readme.md)
+
+<br>
+<br>
+<br>
 
 ## Data Structure & Algorithm
 
@@ -54,3 +62,22 @@
 - [에라토스테네스의 체](/record/algorithm/eratos.md)
 - [Two pointers, Sliding window](/record/algorithm/two-p-sliding-w.md)
 - [DFS, BFS 구현](/record/algorithm/dfs-bfs.md)
+
+<br>
+<br>
+<br>
+
+## Java
+
+- [JVM이란?](https://azurealstn.tistory.com/136)
+- [변수 초기화](/record/language/java/variable-init.md)
+- [스코프](/record/language/java/scope.md)
+- [기본형과 참조형](/record/language/java/primitive-reference.md)
+- [Call by Value와 Call By Reference](/record/language/java/call-by-value.md)
+- [형변환](/record/language/java/type-casting.md)
+- [클래스 - 생성자](/record/language/java/class.md)
+- [접근제어자 - 캡슐화](/record/language/java/access-modifier.md)
+- [자바 메모리 구조 - static](/record/language/java/java-memory.md)
+- [final](/record/language/java/final.md)
+- [오버로딩과 오버라이딩](/record/language/java/overloading-overriding.md)
+- [추상클래스와 인터페이스](/record/language/java/abstract-interface.md)
