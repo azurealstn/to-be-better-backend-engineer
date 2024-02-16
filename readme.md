@@ -92,3 +92,17 @@
 - [스프링 IoC, DI, SOLID](https://azurealstn.tistory.com/126)
 - [싱글톤 컨테이너](/record/framework/spring/singleton.md)
 - [컴포넌트 스캔](/record/framework/spring/componentscan.md)
+- [생성자 주입](https://azurealstn.tistory.com/135)
+- [빈 생명주기](/record/framework/spring/bean-lifecycle.md)
+- [서블릿](https://azurealstn.tistory.com/137)
+- [Spring MVC](https://azurealstn.tistory.com/138)
+- [@RequestParam과 @ModelAttribute](https://azurealstn.tistory.com/139)
+- [HttpEntity, @RequestBody, @ResponseBody](https://azurealstn.tistory.com/140)
+
+<br>
+<br>
+<br>
+
+## Spring Data JPA
+
+- [영속성 컨텍스트](/record/framework/spring-data-jpa/persistence.md)
