@@ -63,6 +63,7 @@
 - [Two pointers, Sliding window](/record/algorithm/two-p-sliding-w.md)
 - [DFS, BFS 구현](/record/algorithm/dfs-bfs.md)
 - [그리디(Greedy)](/record/algorithm/greedy.md)
+- [다익스트라(Dijkstra)](/record/algorithm/dijkstra.md)
 
 <br>
 <br>
