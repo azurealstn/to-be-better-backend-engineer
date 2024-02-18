@@ -107,3 +107,6 @@
 ## Spring Data JPA
 
 - [영속성 컨텍스트](/record/framework/spring-data-jpa/persistence.md)
+- [엔티티 매핑](/record/framework/spring-data-jpa/entity-mapping.md)
+- [연관관계 매핑](/record/framework/spring-data-jpa/relation-mapping.md)
+- [즉시로딩과 지연로딩](/record/framework/spring-data-jpa/eager-lazy.md)
