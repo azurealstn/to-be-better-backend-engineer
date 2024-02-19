@@ -65,6 +65,7 @@
 - [그리디(Greedy)](/record/algorithm/greedy.md)
 - [다익스트라(Dijkstra)](/record/algorithm/dijkstra.md)
 - [Union & Find](/record/algorithm/union-find.md)
+- [최소 스패닝 트리(MST)](/record/algorithm/mst.md)
 
 <br>
 <br>
