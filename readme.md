@@ -111,3 +111,4 @@
 - [엔티티 매핑](/record/framework/spring-data-jpa/entity-mapping.md)
 - [연관관계 매핑](/record/framework/spring-data-jpa/relation-mapping.md)
 - [즉시로딩과 지연로딩](/record/framework/spring-data-jpa/eager-lazy.md)
+- [OSIV](/record/framework/spring-data-jpa/osiv.md)
