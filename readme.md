@@ -66,6 +66,7 @@
 - [다익스트라(Dijkstra)](/record/algorithm/dijkstra.md)
 - [Union & Find](/record/algorithm/union-find.md)
 - [최소 스패닝 트리(MST)](/record/algorithm/mst.md)
+- [동적 프로그래밍(Dynamic Programming)](/record/algorithm/dp.md)
 
 <br>
 <br>
