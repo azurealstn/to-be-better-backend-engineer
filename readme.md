@@ -113,3 +113,4 @@
 - [연관관계 매핑](/record/framework/spring-data-jpa/relation-mapping.md)
 - [즉시로딩과 지연로딩](/record/framework/spring-data-jpa/eager-lazy.md)
 - [OSIV](/record/framework/spring-data-jpa/osiv.md)
+- [N + 1 문제](/record/framework/spring-data-jpa/n+1.md)
