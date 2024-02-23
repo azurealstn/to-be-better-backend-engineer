@@ -26,9 +26,18 @@
 <br>
 <br>
 
+## Computer Architecture
+
+- [BOOK] [혼자 공부하는 컴퓨터 구조와 운영체제](/book/os-for-self-study/computer-structure.md)
+  - 컴퓨터 구조 파트
+
+<br>
+<br>
+<br>
+
 ## Operation System
 
-- [BOOK] [혼자 공부하는 컴퓨터 구조와 운영체제](/book/os-for-self-study/readme.md)
+- 준비중
 
 <br>
 <br>
