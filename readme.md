@@ -37,7 +37,8 @@
 
 ## Operation System
 
-- 준비중
+- [BOOK] [혼자 공부하는 컴퓨터 구조와 운영체제](/book/os-for-self-study/computer-structure.md)
+  - 운영체제 파트
 
 <br>
 <br>
