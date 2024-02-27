@@ -37,7 +37,7 @@
 
 ## Operation System
 
-- [BOOK] [혼자 공부하는 컴퓨터 구조와 운영체제](/book/os-for-self-study/computer-structure.md)
+- [BOOK] [혼자 공부하는 컴퓨터 구조와 운영체제](/book/os-for-self-study/operating-system.md)
   - 운영체제 파트
 
 <br>
