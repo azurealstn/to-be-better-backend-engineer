@@ -21,6 +21,7 @@
 ## Network
 
 - [BOOK] [그림으로 배우는 Http & NetWork Basic](/book/http_network_basic/readme.md)
+- [OSI 7 계층](/record/network/OSI%207%20계층.md)
 
 <br>
 <br>
