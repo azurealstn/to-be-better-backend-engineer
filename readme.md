@@ -25,8 +25,8 @@
 - [TCP/IP](/record/network/tcp_ip.md)
 - [TCP와 UDP](/record/network/tcp-udp.md)
 - [TCP 3, 4 way handshake](/record/network/3-4-way-handshake.md)
-- [DNS]
-- [URI, URL, URN]
+- [DNS](/record/network/dns.md)
+- [URI, URL, URN](/record/network/uri.md)
 - [HTTP]
 - [HTTP 메서드]
 
