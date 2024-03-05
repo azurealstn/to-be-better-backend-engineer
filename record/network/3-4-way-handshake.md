@@ -21,10 +21,10 @@ TCP 3 Way Handshake는 TCP/IP프로토콜을 이용해서 통신을 하는 응�
 
 ![3-way-handshake-2](/record/network/images/3-way-handshake-2.png)
 
-1. Client -> Server : FIN(연결 끊자!)을 보낸다.
-2. Server -> Client : ACK로 응답
-3. Server -> Client : 잠시 후 FIN을 보낸다.
-4. Client -> Server : 마무리 ACK로 응답
+1. Client -> Server : FIN(연결 끊자!)을 보낸다.
+2. Server -> Client : ACK로 응답
+3. Server -> Client : 잠시 후 FIN을 보낸다.
+4. Client -> Server : 마무리 ACK로 응답
 
 ## References
 

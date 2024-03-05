@@ -101,6 +101,7 @@
 - [Union & Find](/record/algorithm/union-find.md)
 - [최소 스패닝 트리(MST)](/record/algorithm/mst.md)
 - [동적 프로그래밍(Dynamic Programming)](/record/algorithm/dp.md)
+- [유클리드 호제법](/record/algorithm/Euclidean.md)
 
 <br>
 <br>
