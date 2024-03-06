@@ -22,12 +22,14 @@
 
 - [BOOK] [그림으로 배우는 Http & NetWork Basic](/book/http_network_basic/readme.md)
 - [OSI 7 계층](/record/network/OSI%207%20계층.md)
+- [IP](/record/network/ip.md)
 - [TCP/IP](/record/network/tcp_ip.md)
 - [TCP와 UDP](/record/network/tcp-udp.md)
 - [TCP 3, 4 way handshake](/record/network/3-4-way-handshake.md)
 - [DNS](/record/network/dns.md)
 - [URI, URL, URN](/record/network/uri.md)
-- [HTTP]
+- [HTTP](/record/network/http.md)
+- [HTTP 메시지](/record/network/http-message.md)
 - [HTTP 메서드]
 
 <br>

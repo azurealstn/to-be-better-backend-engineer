@@ -1,8 +1,26 @@
 # TCP와 UDP
 
-TCP(Transmission Control Protocol)는 연결 지향형 프로토콜이고, 상태를 유지(Stateful)한다. IP를 통해 전달하는 패킷을 안전하게 해당 주소지까지 전달한다.
+TCP와 UDP는 전송 계층(Transport Layer)에 해당된다.
 
-UDP(User Datagram Protocol)는 비연결형 프로토콜이고, 상태를 유지하지 않는다.(Stateless)
+## TCP 특징
+
+- TCP(Transmission Control Protocol)는 연결 지향형 프로토콜이다.
+- 상태를 유지한다. (Stateful)
+- 데이터 전달 보장: IP를 통해 전달하는 패킷을 안전하게 해당 주소지까지 전달한다.
+- 순서 보장
+
+즉, TCP는 신뢰성 있는 프로토콜이다. 대부분 어플리케이션은 TCP 프로토콜을 사용한다.
+
+> TCP가 신뢰성 있는 프로토콜인 이유는 바로 TCP 3, 4 way handshake가 동작하기 때문이다.
+
+## UDP 특징
+
+- UDP(User Datagram Protocol)는 비연결형 프로토콜이다.
+- 상태를 유지하지 않는다. (Stateless)
+- 데이터 전달 보장 X
+- 순서 보장 X
+- TCP 3, 4 way handshake 과정을 거치지 않기 때문에 빠르다.
+- IP와 거의 같고 PORT와 체크섬 정도만 추가된다.
 
 ## TCP와 UDP의 차이
 
