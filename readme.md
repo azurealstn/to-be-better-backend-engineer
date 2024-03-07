@@ -31,6 +31,9 @@
 - [HTTP](/record/network/http.md)
 - [HTTP 메시지](/record/network/http-message.md)
 - [HTTP 메서드]
+  - GET vs POST
+  - PUT vs PATCH
+  - 멱등이란
 
 <br>
 <br>
