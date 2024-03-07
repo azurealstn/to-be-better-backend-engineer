@@ -30,10 +30,10 @@
 - [URI, URL, URN](/record/network/uri.md)
 - [HTTP](/record/network/http.md)
 - [HTTP 메시지](/record/network/http-message.md)
-- [HTTP 메서드]
+- [HTTP 메서드](/record/network/http-method.md)
   - GET vs POST
   - PUT vs PATCH
-  - 멱등이란
+  - 속성 (안전, 멱등)
 
 <br>
 <br>

@@ -26,6 +26,70 @@ HTTP는 요청 메서드를 정의하여, 주어진 리소스에 수행하길 �
 - GET은 브라우저마다 데이터 길이가 제한되지만, POST는 데이터 길이가 제한되지 않는다.
 - GET은 쿼리 파라미터에 정보가 다 노출되어 보안에 취약하지만, POST는 HTTP 메시지 body에 담아서 보내기 때문에 보안에 좋다.
 
+## PUT vs PATCH
+
+### PUT
+
+PUT은 리소스가 있으면 대체, 없으면 새로 생성한다.
+
+```java
+PUT /members/100 HTTP/1.1
+Content-Type: application/json
+{
+  "username": "kim",
+  "age": 30
+}
+```
+
+위와 같이 PUT으로 회원정보를 생성했다. 그리고 아래와 같이 `age=50`으로 수정했다.
+
+```java
+PUT /members/100 HTTP/1.1
+Content-Type: application/json
+{
+  "age": 50
+}
+```
+
+PUT은 리소스를 완전히 대체하기 때문에 일부 데이터만 보내면 `username` 데이터는 사라진다. (대형 사고!) 따라서 이 경우엔 **PATCH 메서드**를 사용해야 한다.
+
+> PUT의 메커니즘은 수정이 아닌 완전히 대체하는 것이다.
+
+### PATCH
+
+```java
+PUT /members/100 HTTP/1.1
+Content-Type: application/json
+{
+  "age": 50
+}
+```
+
+부분 수정만 하려면 위와 같이 `age` 데이터만 보내도 `username`은 사라지지 않는다.
+
+> PATCH는 부분 수정을 하는 경우 사용한다.  
+> PATCH를 지원하지 않는 서버가 있는데 이 떄는 POST를 사용하면 된다.
+
+## 속성
+
+### 안전(Safe)
+
+(리소스가 변경되지 않는 것 한해서) 리소스를 여러번 호출해도 변경되지 않는다. 즉, 동일한 리소스를 여러번 호출한 경우에 변경되지 않는다.
+
+- GET, HEAD, OPTIONS, TRACE -> Safe
+- POST, PUT, PATCH, DELETE, CONNECT -> Not Safe
+
+### 멱등(Idempotent)
+
+한번 호출하든 두번 호출하든 100번 호출하든 결과가 같아야 한다.
+
+- GET, PUT, DELETE -> 멱등하다.
+- POST -> 멱등하지 않다.
+
+#### 멱등 활용
+
+- 자동 복구 메커니즘: 서버가 timeout 등으로 정상 응답을 못주었을 때, 클라이언트가 같은 요청을 다시 해도 되는가 - 판단 근거가 된다.
+
 ## References
 
 - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#)
