@@ -28,12 +28,16 @@
 - [TCP 3, 4 way handshake](/record/network/3-4-way-handshake.md)
 - [DNS](/record/network/dns.md)
 - [URI, URL, URN](/record/network/uri.md)
+- [웹 브라우저 요청 흐름: https://www.google.com 에 접속하면 일어나는 일](/record/network/웹_브라우저_요청_흐름.md)
 - [HTTP](/record/network/http.md)
 - [HTTP 메시지](/record/network/http-message.md)
 - [HTTP 메서드](/record/network/http-method.md)
   - GET vs POST
   - PUT vs PATCH
   - 속성 (안전, 멱등)
+- [REST API](/record/network/rest_api.md)
+- [컬렉션, 스토어](/record/network/컬렉션.스토어.md)
+- [HTTP 상태코드](/record/network/http-status-code.md)
 
 <br>
 <br>

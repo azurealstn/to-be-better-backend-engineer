@@ -33,3 +33,7 @@ false로 설정하면 OSIV OFF 상태가 된다. OFF 상태는 트랜잭션 시�
 ### 언제 사용?
 
 고객 서비스의 실시간 API는 OSIV를 끄고, ADMIN 처럼 컨넥션을 많이 사용하지 않는 곳에서는 OSIV를 키면 좋을 것 같다.
+
+## References
+
+- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94/dashboard)
