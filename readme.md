@@ -38,6 +38,12 @@
 - [REST API](/record/network/rest_api.md)
 - [컬렉션, 스토어](/record/network/컬렉션.스토어.md)
 - [HTTP 상태코드](/record/network/http-status-code.md)
+- [HTTP 헤더](/record/network/http-header.md)
+  - 표현 헤더
+  - 컨텐츠 협상
+  - 일반 정보(referer, user-agent..)
+  - 특별한 정보(Host, Location..)
+  - 인증
 
 <br>
 <br>
