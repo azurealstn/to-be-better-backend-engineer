@@ -44,6 +44,11 @@
   - 일반 정보(referer, user-agent..)
   - 특별한 정보(Host, Location..)
   - 인증
+- [쿠키와 세션](/record/network/cookie-session.md)
+- [캐시](/record/network/cache.md)
+- [검증 헤더와 조건부 요청](/record/network/valid-cache.md)
+- [캐시 헤더](/record/network/cache-control.md)
+- [프록시 캐시](/record/network/proxy-cache.md)
 
 <br>
 <br>
