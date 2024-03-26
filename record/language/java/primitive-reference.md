@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Before sum = " + sum); // 10
 
         sum = 30;
-        System.out.println("After tmp = " + tmp); // 30
+        System.out.println("After tmp = " + tmp); // 10
         System.out.println("After sum = " + sum); // 30
     }
 
